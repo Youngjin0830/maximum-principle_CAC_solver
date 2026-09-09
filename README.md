@@ -55,4 +55,4 @@ conservative Allen--Cahn equation," manuscript.
 
 ## Author
 
-Youngjin Hwang
+Youngjin Hwang and Junseok Kim
